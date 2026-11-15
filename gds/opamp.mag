@@ -1,0 +1,13 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1794691745
+use b_m1_m2  b_m1_m2_0
+timestamp 1794687483
+transform 1 0 177 0 1 1320
+box -177 -1320 1339 1786
+use b_m3_m4  b_m3_m4_0
+timestamp 1794687883
+transform 1 0 1729 0 1 1361
+box -133 -1362 1383 1778
+<< end >>

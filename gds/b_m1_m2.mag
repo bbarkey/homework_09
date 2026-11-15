@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1794687321
+timestamp 1794687483
 << metal1 >>
 rect 100 -78 202 166
 use c_m1  c_m1_0

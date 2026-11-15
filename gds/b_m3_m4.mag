@@ -1,0 +1,17 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1794687883
+<< locali >>
+rect 72 40 78 84
+<< metal1 >>
+rect 958 -122 1060 162
+use c_m1  c_m1_0
+timestamp 1794687099
+transform 1 0 47 0 1 61
+box -51 -59 1131 1717
+use c_m2  c_m2_0
+timestamp 1794686758
+transform 1 0 -68 0 1 -1297
+box -65 -65 1451 1395
+<< end >>
