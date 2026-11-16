@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1794692814
+timestamp 1794787383
 << nwell >>
 rect -358 -597 358 597
 << mvpmos >>
@@ -26,11 +26,8 @@ rect -292 473 292 485
 rect -292 423 -234 473
 rect -292 -423 -280 423
 rect -246 -423 -234 423
-rect 234 423 292 473
 rect -292 -473 -234 -423
-rect 234 -423 246 423
-rect 280 -423 292 423
-rect 234 -473 292 -423
+rect 234 -473 292 473
 rect -292 -485 292 -473
 rect -292 -519 -184 -485
 rect 184 -519 292 -485
@@ -38,7 +35,6 @@ rect -292 -531 292 -519
 << mvnsubdiffcont >>
 rect -184 485 184 519
 rect -280 -423 -246 423
-rect 246 -423 280 423
 rect -184 -519 184 -485
 << poly >>
 rect -100 381 100 397
@@ -56,7 +52,7 @@ rect -84 -381 84 -347
 rect -280 485 -184 519
 rect 184 485 280 519
 rect -280 423 -246 485
-rect 246 423 280 485
+rect 246 471 280 485
 rect -100 347 -84 381
 rect 84 347 100 381
 rect -146 288 -112 304
@@ -66,19 +62,14 @@ rect 112 -304 146 -288
 rect -100 -381 -84 -347
 rect 84 -381 100 -347
 rect -280 -485 -246 -423
-rect 246 -485 280 -423
+rect 246 -485 280 -451
 rect -280 -519 -184 -485
 rect 184 -519 280 -485
 << viali >>
-rect -84 347 84 381
 rect -146 -288 -112 288
 rect 112 -288 146 288
 rect -84 -381 84 -347
 << metal1 >>
-rect -96 381 96 387
-rect -96 347 -84 381
-rect 84 347 96 381
-rect -96 341 96 347
 rect -152 288 -106 300
 rect -152 -288 -146 288
 rect -112 -288 -106 288
@@ -91,15 +82,6 @@ rect -96 -347 96 -341
 rect -96 -381 -84 -347
 rect 84 -381 96 -347
 rect -96 -387 96 -381
-<< labels >>
-rlabel mvnsubdiffcont 0 -502 0 -502 0 B
-port 1 nsew
-rlabel mvpdiffc -129 0 -129 0 0 D
-port 2 nsew
-rlabel mvpdiffc 129 0 129 0 0 S
-port 3 nsew
-rlabel polycont 0 364 0 364 0 G
-port 4 nsew
 << properties >>
 string FIXED_BBOX -263 -502 263 502
 string gencell sky130_fd_pr__pfet_g5v0d10v5

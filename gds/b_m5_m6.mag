@@ -1,0 +1,38 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1794787846
+<< locali >>
+rect -132 598 400 760
+rect -244 524 512 542
+rect -244 510 472 524
+rect -246 440 472 510
+rect -244 430 472 440
+rect -244 416 512 430
+rect 94 336 180 368
+<< viali >>
+rect 472 430 512 524
+<< metal1 >>
+rect 466 524 518 536
+rect 466 430 472 524
+rect 512 430 518 524
+rect 466 418 518 430
+rect -134 70 388 368
+use c_m6  c_m6_0
+timestamp 1794787383
+transform 1 0 -422 0 -1 227
+box -83 -87 1177 1145
+use sky130_fd_pr__pfet_g5v0d10v5_MC3PNY  sky130_fd_pr__pfet_g5v0d10v5_MC3PNY_0
+timestamp 1794787383
+transform 0 1 133 -1 0 482
+box -358 -597 358 597
+<< labels >>
+flabel locali 134 354 134 354 0 FreeSans 800 0 0 0 D
+port 0 nsew
+flabel locali -230 482 -230 482 0 FreeSans 800 0 0 0 G
+port 1 nsew
+flabel locali 136 612 136 612 0 FreeSans 800 0 0 0 S
+port 2 nsew
+flabel locali 132 748 132 748 0 FreeSans 800 0 0 0 B
+port 3 nsew
+<< end >>
