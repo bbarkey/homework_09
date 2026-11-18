@@ -745,8 +745,8 @@ model=nfet_g5v0d10v5
 spiceprefix=X
 }
 C {sky130_fd_pr/nfet_g5v0d10v5.sym} -860 110 0 0 {name=Mr1
-W=5
-L=7
+W=1.25
+L=1.75
 nf=1
 mult=1
 ad="expr('int((@nf + 1)/2) * @W / @nf * 0.29')"
