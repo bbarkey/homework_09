@@ -1,15 +1,18 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1794803427
+timestamp 1795040862
 << metal1 >>
-rect 270 352 450 646
+rect 270 386 450 646
+rect 262 384 450 386
+rect 258 352 450 384
+rect 258 342 294 352
 use c_m31  c_m31_0
-timestamp 1794802697
+timestamp 1795040790
 transform -1 0 901 0 1 497
 box -65 -65 1117 1111
 use c_m32  c_m32_0
-timestamp 1794803427
-transform -1 0 653 0 1 67
+timestamp 1795040862
+transform -1 0 652 0 1 67
 box -65 -65 651 495
 << end >>

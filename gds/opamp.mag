@@ -1,7 +1,12 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1794960463
+timestamp 1795110825
+<< error_s >>
+rect 6874 4506 6964 5754
+rect 7274 4538 7364 5782
+rect 7274 4534 8268 4538
+rect 7274 4134 8668 4138
 use b_m1_m2  b_m1_m2_0
 timestamp 1794687483
 transform 1 0 177 0 1 1320
@@ -11,9 +16,21 @@ timestamp 1794687883
 transform 1 0 1729 0 1 1361
 box -133 -1362 1383 1778
 use b_m31_m32  b_m31_m32_0
-timestamp 1794803427
+timestamp 1795040862
 transform 1 0 5262 0 1 -34
 box -216 2 966 1608
+use c_m15_m17  c_m15_m17_0
+timestamp 1794962584
+transform 1 0 6687 0 1 765
+box -77 -47 1439 1145
+use c_m15_m17  c_m15_m17_1
+timestamp 1794962584
+transform -1 0 9799 0 1 801
+box -77 -47 1439 1145
+use c_m24  c_m24_0
+timestamp 1795110755
+transform -1 0 13769 0 1 4897
+box -89 -91 665 625
 use c_mr1  c_mr1_0
 timestamp 1794958694
 transform 1 0 -2331 0 1 123
@@ -34,4 +51,36 @@ use b_m5_m6  m7_m8
 timestamp 1794960463
 transform -1 0 3735 0 1 5026
 box -505 -918 755 840
+use c_m11  m11
+timestamp 1795040257
+transform 1 0 6053 0 1 4599
+box -83 -93 911 1155
+use c_m12  m12
+timestamp 1795050426
+transform 1 0 5369 0 1 2939
+box -95 -95 1499 1153
+use c_m11  m13
+timestamp 1795040257
+transform 1 0 7357 0 1 4627
+box -83 -93 911 1155
+use c_m12  m14
+timestamp 1795050426
+transform -1 0 8773 0 1 2985
+box -95 -95 1499 1153
+use c_m21  m21
+timestamp 1795110168
+transform -1 0 10945 0 -1 5711
+box -65 -99 859 2681
+use c_m21  m22
+timestamp 1795110168
+transform 1 0 11541 0 1 3115
+box -65 -99 859 2681
+use c_m16  m_16
+timestamp 1795041715
+transform 1 0 6933 0 1 55
+box -49 -59 667 501
+use c_m16  m_18
+timestamp 1795041715
+transform -1 0 8729 0 1 51
+box -49 -59 667 501
 << end >>

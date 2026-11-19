@@ -1,0 +1,9 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1794965280
+use sky130_fd_pr__nfet_g5v0d10v5_ZZA6K9  sky130_fd_pr__nfet_g5v0d10v5_ZZA6K9_0
+timestamp 1794965280
+transform 0 1 929 -1 0 1339
+box -1386 -958 1386 958
+<< end >>
