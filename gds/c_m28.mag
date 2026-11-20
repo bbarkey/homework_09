@@ -1,0 +1,63 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1795137345
+<< locali >>
+rect 819 972 923 1006
+rect 102 893 142 916
+rect 819 893 846 972
+rect 102 882 846 893
+rect 894 882 923 972
+rect 102 841 923 882
+rect 102 734 142 841
+rect 819 828 923 841
+rect 822 734 862 828
+rect 102 682 862 734
+rect 102 578 142 682
+rect 822 578 862 682
+rect 102 526 862 578
+rect 102 420 142 526
+rect 822 420 862 526
+rect 102 368 862 420
+rect 102 262 142 368
+rect 822 262 862 368
+rect 102 210 862 262
+rect 102 184 142 210
+rect 822 186 862 210
+rect 194 8 766 170
+rect 402 4 588 8
+<< viali >>
+rect 846 882 894 972
+<< metal1 >>
+rect 840 972 900 984
+rect 50 926 262 966
+rect 374 930 584 962
+rect 50 650 86 926
+rect 840 882 846 972
+rect 894 882 900 972
+rect 840 870 900 882
+rect 688 806 908 807
+rect 688 767 916 806
+rect 50 610 260 650
+rect 50 336 86 610
+rect 880 496 916 767
+rect 704 456 916 496
+rect 49 296 269 336
+rect 880 177 916 456
+rect 360 140 578 172
+rect 691 137 916 177
+rect 880 136 916 137
+use sky130_fd_pr__nfet_g5v0d10v5_2LX3WQ  sky130_fd_pr__nfet_g5v0d10v5_2LX3WQ_0
+timestamp 1795137326
+transform 0 1 481 -1 0 551
+box -596 -558 596 558
+<< labels >>
+flabel metal1 480 946 480 946 0 FreeSans 800 0 0 0 D
+port 0 nsew
+flabel viali 872 928 872 928 0 FreeSans 800 0 0 0 G
+port 1 nsew
+flabel metal1 480 156 480 156 0 FreeSans 800 0 0 0 S
+port 2 nsew
+flabel locali 484 22 484 22 0 FreeSans 800 0 0 0 B
+port 3 nsew
+<< end >>

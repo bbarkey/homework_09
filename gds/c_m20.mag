@@ -1,0 +1,23 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1795135273
+<< locali >>
+rect 154 222 390 460
+rect 219 -12 325 150
+<< metal1 >>
+rect 221 514 321 550
+use sky130_fd_pr__nfet_g5v0d10v5_5WKV3F  sky130_fd_pr__nfet_g5v0d10v5_5WKV3F_0
+timestamp 1795135273
+transform 0 1 271 -1 0 336
+box -397 -308 397 308
+<< labels >>
+flabel metal1 272 532 272 532 0 FreeSans 800 0 0 0 D
+port 0 nsew
+flabel locali 376 344 376 344 0 FreeSans 800 0 0 0 G
+port 1 nsew
+flabel locali 272 124 272 124 0 FreeSans 800 0 0 0 S
+port 2 nsew
+flabel locali 270 2 270 2 0 FreeSans 800 0 0 0 B
+port 3 nsew
+<< end >>

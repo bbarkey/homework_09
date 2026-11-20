@@ -67,7 +67,7 @@ C {lab_wire.sym} 360 -70 0 0 {name=p2 sig_type=std_logic lab=Vout
 }
 C {lab_wire.sym} 340 -20 0 0 {name=p3 sig_type=std_logic lab=Vref
 }
-C {code_shown.sym} -920 -210 0 0 {name=NGSPICE only_toplevel=false 
+C {code_shown.sym} -910 -200 0 0 {name=NGSPICE only_toplevel=false 
 value=".option wnflag=1
 .option savecurrents
 .save all
