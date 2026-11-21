@@ -1,0 +1,19 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1795290413
+<< metal3 >>
+rect -886 -5334 -558 5064
+rect 5032 -5334 5361 5026
+rect -886 -5627 5361 -5334
+rect -886 -5662 5032 -5627
+<< metal4 >>
+rect -6034 -5554 5024 -5410
+use sky130_fd_pr__cap_mim_m3_1_9RZULL  sky130_fd_pr__cap_mim_m3_1_9RZULL_0
+timestamp 1795290335
+transform 1 0 -315 0 1 -158
+box -5765 -5400 5765 5400
+<< labels >>
+flabel metal4 -5938 -5508 -5938 -5508 0 FreeSans 800 0 0 0 M4
+flabel metal3 5210 -5502 5210 -5502 0 FreeSans 800 0 0 0 M3
+<< end >>
