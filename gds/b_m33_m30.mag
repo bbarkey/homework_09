@@ -1,0 +1,13 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1795222465
+use c_m33  c_m33
+timestamp 1795222465
+transform 1 0 71 0 1 67
+box -53 -63 1463 1129
+use c_m33  m30
+timestamp 1795222465
+transform -1 0 2867 0 1 67
+box -53 -63 1463 1129
+<< end >>
